@@ -3,6 +3,3 @@ Contact: security@atolcd.com
 
 # Our PGP key
 Encryption: https://www.atolcd.com/.well-known/security/pgp-key.asc
-
-# This file signature
-Signature: https://www.atolcd.com/.well-known/security.txt.sig
