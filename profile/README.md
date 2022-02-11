@@ -8,6 +8,6 @@ The goal of `atolcd` is to host the company's own open-source software productio
 
 # Any security considerations ?
 
-Have you found an issue in one of our projects ? You can browse the security policy of the affected repository. If the security issue does not affect a published repository, you can find basic security contact information in our generic security policy, [avalailable here](../SECURITY.md) or on our corporate website : https://www.atolcd.com/security.txt
+Have you found an issue in one of our projects ? You can browse the security policy of the affected repository. If the security issue does not affect a published repository, you can find basic security contact information in our generic security policy, [avalailable here](https://github.com/atolcd/.github/blob/master/SECURITY.md) or on our corporate website : https://www.atolcd.com/security.txt
 
 Please be aware that we don't have any active bug bounty program right now.
